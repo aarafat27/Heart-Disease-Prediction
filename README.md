@@ -1,4 +1,4 @@
-# Heart-Desease-Prediction
+# Heart-Disease-Prediction
 Project Overview
 Heart disease describes a range of conditions that affect heart. Today, 
 cardiovascular diseases are the leading cause of death worldwide with 17.9 
